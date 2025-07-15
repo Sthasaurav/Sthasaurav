@@ -6,19 +6,19 @@ BSc. CSIT Graduate with 1.5+ years of experience building fast, responsive, and 
 
 🌍 Based in Banepa, Nepal | 📫 Reach me at: **sthasaurav57@gmail.com**
 
----
+
 
 ### 🔭 Projects I'm Working On
 
 - [De Lens Aura Studio](https://delensaurastudio.vercel.app/)
 - [Mobile Mortgage Mart](https://mobile-mortgage-mart.vercel.app/)
 
----
+
 
 ### 🌱 Currently Exploring
 Performance optimization, scalable backend systems, and better developer experience with modern stacks.
 
----
+
 
 ## 🛠️ Skills
 
@@ -48,7 +48,7 @@ Performance optimization, scalable backend systems, and better developer experie
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
 </p>
 
----
+
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
@@ -56,7 +56,7 @@ Performance optimization, scalable backend systems, and better developer experie
 <a href="https://fb.com/saurav shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saurav shrestha" height="30" width="40" /></a>
 </p>
 
----
+
 
 ## My GitHub Stats
 <p align="left">
